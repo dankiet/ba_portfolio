@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "7fd8c919cca2a75b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0bb912ca274f57a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9915e29c3d9b921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_System_Design/05_use_case_specs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05_use_case_specs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0877f22fa31805a",
+    "type": "split",
+    "children": [
+      {
+        "id": "733051394cbdc16d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d6b9a1163d57bf1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6afecaf50f7fb48f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f82eabe3687be18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "546946233cd2aaa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa6c89c5c33acde2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d9707c5c3c97b98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06_SRS/12_SRS_Document.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 12_SRS_Document"
+            }
+          },
+          {
+            "id": "055e02e7892616b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_System_Design/05_use_case_specs.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 05_use_case_specs"
+            }
+          },
+          {
+            "id": "becb0c090969a766",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "391c40627053b7b1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dccb1e1a7d2de0d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Requirements_Analysis/03_bpmn_diagrams.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03_bpmn_diagrams"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e9915e29c3d9b921",
+  "lastOpenFiles": [
+    "03_System_Design/04_use_case_diagram.md",
+    "02_Requirements_Analysis/03_bpmn_diagrams.md",
+    "02_Requirements_Analysis/02_user_story_map.md",
+    "01_Business_Context/01_business_case.md",
+    "06_SRS/12_SRS_Document.md",
+    "03_System_Design/08_erd_data_design.md",
+    "README.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "05_NFR_Metrics/11_nfr_metrics.md",
+    "03_System_Design/05_use_case_specs.md",
+    "01_Business_Context/Untitled.base"
+  ]
+}
