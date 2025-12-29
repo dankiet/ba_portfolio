@@ -33,28 +33,26 @@ Versatile professional with 8+ years across retail operations, digital marketing
 
 ## WORKING EXPERIENCE
 
-### **KASH Vietnam** • Ho Chi Minh City & Nationwide
+### **KASH Vietnam** 
 **Operations Specialist** • 09/2023 – 07/2025
 
 Managed end-to-end retail operations for F&B chain with 200+ locations across Vietnam. Built data infrastructure and operational frameworks collaborating with IT to design real-time sales tracking dashboard, standardizing KPIs organization-wide. Developed forecasting models for key product categories supporting inventory allocation decisions. Led field operations managing 70-90 staff during peak seasons, orchestrating weekly distribution planning, customer service schedules, and delivery routing. Managed inventory across central warehouse and retail points, implementing near-expiry product rotation program reducing waste. Built automated reporting system connecting sales data, promotions, and attendance records. Analyzed sell-out data and competitor activities to inform trade marketing decisions. Documented and streamlined promotion workflows, stock rotation, and inventory management procedures into SOPs. Achieved 40% YoY growth while driving 30% revenue increase during Tet season and minimizing stock discrepancies to under 3% through systematic processes.
 
-### **Etsy Vietnam** • Remote
-**E-commerce Operations Specialist (Print-on-Demand)** • 2020 – 2023
+### **Etsy Vietnam**
+**E-commerce Operations Specialist (Print-on-Demand)** • 2021 – 2023
 
 Scaled Etsy storefront to 200+ active listings across 3 shops. Optimized product discovery through keyword research and seasonal trend analysis. Coordinated international fulfillment managing print vendors and shipping logistics. Maintained customer satisfaction metrics above platform averages while handling disputes and quality issues. Managed Etsy Ads budget and analyzed shop statistics to inform product strategy.
+### **DH Vietnam**
+**IT Security & Network Engineer** • 2020 – 2021
 
-### **CityHouse Real Estate** • Ho Chi Minh City
-**Digital Marketing Specialist** • 2019 – 2021
+Deployed cybersecurity solutions for SME clients including firewalls (Fortinet, Sophos), VPN, and endpoint protection. Configured and commissioned surveillance systems (mobotix/Hikvision/Dahua) and access control infrastructure. Conducted vulnerability assessments and basic penetration testing. Delivered security awareness training and created technical documentation for client onboarding. Supported network troubleshooting and VLAN configuration.
+### **CityHouse Real Estate**
+**Digital Marketing Specialist** • 2019 – 2020
 
-Drove digital marketing initiatives managing multi-channel campaigns and CRM implementation. Managed local SEO and Google My Business for 30+ branch locations, standardizing NAP data. Orchestrated campaigns across Google Ads and Facebook Ads platforms with monthly budget up to 50M VND, optimizing for lead generation and conversion. Executed SEO strategy including keyword research, on-page optimization, and content marketing. Implemented Bitrix24 CRM system for lead management and sales pipeline tracking, achieving 85% user adoption. Designed marketing automation workflows for lead nurturing and follow-up. Conducted conversion rate optimization through landing page A/B testing and funnel analysis. Created performance dashboards using Google Analytics and coordinated with sales teams to align messaging and track lead-to-sale conversion.
+Drove digital marketing initiatives managing multi-channel campaigns and CRM implementation. Managed local SEO and Google My Business for 30+ branch locations, standardizing NAP data. Orchestrated campaigns across Google Ads and Facebook Ads platforms with monthly budget up to 200M VND, optimizing for lead generation and conversion. Executed SEO strategy including keyword research, on-page optimization, and content marketing. Implemented Bitrix24 CRM system for lead management and sales pipeline tracking, achieving 85% user adoption. Designed marketing automation workflows for lead nurturing and follow-up. Conducted conversion rate optimization through landing page A/B testing and funnel analysis. Created performance dashboards using Google Analytics and coordinated with sales teams to align messaging and track lead-to-sale conversion.
 
-### **DH Vietnam** • Ho Chi Minh City
-**IT Security & Network Engineer** • 2019 – 2020
-
-Deployed cybersecurity solutions for SME clients including firewalls (Fortinet, Sophos), VPN, and endpoint protection. Configured and commissioned surveillance systems (Hikvision/Dahua) and access control infrastructure. Conducted vulnerability assessments and basic penetration testing. Delivered security awareness training and created technical documentation for client onboarding. Supported network troubleshooting and VLAN configuration.
-
-### **Hoang Giang Company** • Ho Chi Minh City
-**IT System Administrator & Support Engineer** • 2016 – 2019
+### **Hoang Giang Company**
+**IT System Administrator & Support Engineer** • 2016 – 2017
 
 Administered Windows Server environment, Office 365 tenant, and virtual infrastructure supporting 50+ users. Provided technical support via ticketing system with remote troubleshooting capabilities. Configured network equipment including switches, routers, and wireless access points. Managed backup systems, antivirus deployment, and access controls. Developed WordPress websites with basic SEO optimization and deployed surveillance camera systems across 15 locations.
 
@@ -67,7 +65,7 @@ Administered Windows Server environment, Office 365 tenant, and virtual infrastr
 | **Game Automation System** (Personal Project, 2024) | Complete BA documentation (14 artifacts) for game automation system. Reverse-engineered 1,140-line Python codebase. | Business Analyst | 🔗 [View Portfolio](https://github.com/dankiet/ba_portfolio/tree/main/Game_Portfolio) |
 | **Auto Merchandising System** (Personal Project, 2024) | BA documentation for retail automation system with requirements analysis and system design. | Business Analyst | 🔗 [View Portfolio](https://github.com/dankiet/ba_portfolio/tree/main/Auto_Portfolio) |
 
-**Key BA Tasks Demonstrated:**
+**Key BA Tasks Demonstrated:*
 - Reverse-engineered codebase to extract requirements
 - Created BRD with BACCM framework (Context, Needs, Solution, Value)
 - Developed 30+ User Stories with Given/When/Then acceptance criteria
@@ -88,9 +86,8 @@ Nguyen Tat Thanh University • 2011 – 2014
 ---
 
 ## CERTIFICATIONS & TRAINING
-
-Business Analysis Fundamentals – Hai Lúa Academy (2025) 
 Google Project Management Certificate (in-progess)
+Business Analysis Fundamentals – Hai Lúa Academy (2025)
 Gemini AI Prompting (2024)  
 ChatGPT Prompt Engineering (2024)  
 Odoo ERP User & Configuration (2023)
