@@ -1,0 +1,37 @@
+# Video recordings
+recordings/
+*.webm
+*.mp4
+
+# Screenshots
+*.png
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Excel
+*.xlsx
+!template.xlsx
+
+# Env
+.env
+*.env
+

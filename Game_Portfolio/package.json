@@ -1,0 +1,12 @@
+{
+  "name": "ba-portfolio-pdf-converter",
+  "version": "1.0.0",
+  "description": "Convert BA Portfolio MD files to PDF with Mermaid support",
+  "scripts": {
+    "convert": "node convert_to_pdf.js",
+    "convert:all": "md-to-pdf './**/*.md' --dest './PDF_Output'"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
