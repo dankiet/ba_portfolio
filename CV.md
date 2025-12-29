@@ -60,10 +60,10 @@ Administered Windows Server environment, Office 365 tenant, and virtual infrastr
 
 ## PROJECTS
 
-| **Project Name** | **Output Summary** | **Role** | **Portfolio Link** |
-|---|---|---|---|
-| **Game Automation System** (Personal Project, 2024) | Complete BA documentation (14 artifacts) for game automation system. Reverse-engineered 1,140-line Python codebase. | Business Analyst | 🔗 [View Portfolio](https://github.com/dankiet/ba_portfolio/tree/main/Game_Portfolio) |
-| **Auto Merchandising System** (Personal Project, 2024) | BA documentation for retail automation system with requirements analysis and system design. | Business Analyst | 🔗 [View Portfolio](https://github.com/dankiet/ba_portfolio/tree/main/Auto_Portfolio) |
+| **Project Name**                                       | **Output Summary**                                                                                                  | **Role**         | **Portfolio Link**                                                                    |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------- |
+| **Game Automation System** (Personal Project, 2024)    | Complete BA documentation (14 artifacts) for game automation system. Reverse-engineered 1,140-line Python codebase. | Business Analyst | 🔗 [View Portfolio](https://github.com/dankiet/ba_portfolio/tree/main/Game_Portfolio) |
+| **Auto Merchandising System** (Personal Project, 2024) | BA documentation for retail automation system with requirements analysis and system design.                         | Business Analyst | 🔗 [View Portfolio](https://github.com/dankiet/ba_portfolio/tree/main/Auto_Portfolio) |
 
 **Key BA Tasks Demonstrated:*
 - Reverse-engineered codebase to extract requirements
